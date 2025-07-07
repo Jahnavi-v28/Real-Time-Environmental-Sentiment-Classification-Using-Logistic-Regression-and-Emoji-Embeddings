@@ -1,4 +1,4 @@
-# Real-Time-Environmental-Sentiment-Classification-Using-Logistic-Regression-and-Emoji-Embeddings
+# Real-Time-Environmental-Sentiment-Classification
 This project performs data preprocessing and filtering of tweets related to environmental topics such as climate change, pollution, sustainability, etc.
 
 Project Structure:
